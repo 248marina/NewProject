@@ -1,4 +1,5 @@
-body {
-    background-color: rgb(255, 255, 255);
+body{
+    background: linear-gradient(to bottom right, rgb(255, 255, 255), aquamarine);
     text-align: center;
+    min-height: 100vh;
 }
